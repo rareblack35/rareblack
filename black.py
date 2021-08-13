@@ -38,17 +38,17 @@ bashrc1 = '''
 clear
 echo
 echo "
-   ★★★★★★★★ [★] 𝕼𝖚𝖆𝖓𝖙𝖚𝖒 𝕮𝖞𝖇𝖊𝖗 𝕾𝖖𝖚𝖆𝖉 [★] ★★★★★★★★  " |lolcat
+   ★★★★★★★★ [★] 𝗪𝗲 𝗔𝗿𝗲 𝗔𝗻𝗢𝗻𝗬𝗺𝗢𝘂𝗦 [★] ★★★★★★★★  " |lolcat
 echo
-    echo "Ｗｅ Ａｒｅ ＡｎＯｎＹｍＯｕＳ" |lolcat
+    echo " Ｑｕａｎｔｕｍ Ｃｙｂｅｒ Ｓｑｕａｄ " |lolcat
 '''
 
 bashrc2 = '''
 echo "
-     `✵•.¸,✵°✵.｡.🆆🅴 🆆🅾🆁🅺 🅵🅾🆁 🅳🅸🅶🅽🅸🆃🆈.｡.✵°✵,¸.•✵´   
-               ★★★★★ 🅝🅞🅣 🅕🅞🅡 🅜🅞🅝🅔🅨 ★★★★★
-           `✵•.¸,✵°✵.｡. CrEaTeD BY ReAZ  .｡.✵°✵,¸.•✵´
-   ★ ━━━━━━━━━━━ [★] RaRe BlAcK [★] ━━━━━━━━━━━━ ★ " |lolcat
+               ★★★★★ 𝖂𝖊 𝖜𝖔𝖗𝖐 𝖋𝖔𝖗 𝕯𝖎𝖌𝖓𝖎𝖙𝖞 ★★★★★   
+                   ★★★★ 𝓝𝓸𝓽 𝓕𝓸𝓻 𝓜𝓸𝓷𝓮𝔂 ★★★★
+           ✵•.¸,✵°✵.｡. CrEaTeD BY ReAZ .｡.✵°✵,¸.•✵
+     ★━━━━━━━━━━━[★] RaRe BlAcK [★]━━━━━━━━━━━★ " |lolcat
 
 python /data/data/com.termux/files/usr/etc/wlc.py
 if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
