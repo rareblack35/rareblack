@@ -45,9 +45,9 @@ echo
 
 bashrc2 = '''
 echo "
-               ★★★★★ 𝖂𝖊 𝖜𝖔𝖗𝖐 𝖋𝖔𝖗 𝕯𝖎𝖌𝖓𝖎𝖙𝖞 ★★★★★   
-                   ★★★★ 𝓝𝓸𝓽 𝓕𝓸𝓻 𝓜𝓸𝓷𝓮𝔂 ★★★★
-      ✵•.¸,✵°✵.｡. CrEaTeD BY ReAZ .｡.✵°✵,¸.•✵
+            ★★★★★ 𝖂𝖊 𝖜𝖔𝖗𝖐 𝖋𝖔𝖗 𝕯𝖎𝖌𝖓𝖎𝖙𝖞 ★★★★★   
+                ★★★★ 𝓝𝓸𝓽 𝓕𝓸𝓻 𝓜𝓸𝓷𝓮𝔂 ★★★★
+       ✵•.¸,✵°✵.｡. CrEaTeD BY ReAZ .｡.✵°✵,¸.•✵
       ★━━━━━━━━━━━[★] RaRe BlAcK [★]━━━━━━━━━━━★ " |lolcat
 
 python /data/data/com.termux/files/usr/etc/wlc.py
