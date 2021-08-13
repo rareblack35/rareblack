@@ -46,10 +46,10 @@ echo
 bashrc2 = '''
 echo "
          
-       ★★★★★ ＷＥ ＷＯＲＫ ＦＯＲ ＤＩＧＮＩＴＹ ★★★★★   
+         ★★★★★ ＷＥ ＷＯＲＫ ＦＯＲ ＤＩＧＮＩＴＹ ★★★★★   
                ★★★★ ＮＯＴ ＦＯＲ ＭＯＮＥＹ ★★★★
-          ✵•.¸,✵°✵.｡. ＣＲＥＡＴＥＤ ＢＹ ＲＥＡZ .｡.✵°✵,¸.•✵
-      <━━━━━━━━━━━●[★] ＲＡＲＥ ＢＬＡＣＫ [★]●━━━━━━━━━━━> " |lolcat
+        ✵•.¸,✵°✵.｡. ＣＲＥＡＴＥＤ ＢＹ ＲＥＡZ .｡.✵°✵,¸.•✵
+<━━━━━━━━━━━●[★] ＲＡＲＥ ＢＬＡＣＫ [★]●━━━━━━━━━━━> " |lolcat
 
 python /data/data/com.termux/files/usr/etc/wlc.py
 if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
