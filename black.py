@@ -38,16 +38,16 @@ bashrc1 = '''
 clear
 echo
 echo "
-   < ━━━━━━━━ [★] QuAnTuM CyBeR SqUaD [★] ━━━━━━━━ >  " |lolcat
+   ★★★★★★★★ [★] 𝕼𝖚𝖆𝖓𝖙𝖚𝖒 𝕮𝖞𝖇𝖊𝖗 𝕾𝖖𝖚𝖆𝖉 [★] ★★★★★★★★  " |lolcat
 echo
-    echo "  We Are AnOnYmOuS" |lolcat
+    echo "Ｗｅ Ａｒｅ ＡｎＯｎＹｍＯｕＳ" |lolcat
 '''
 
 bashrc2 = '''
 echo "
-             ★★★★★ We Work For Dignity 
-                          Not For Money ★★★★★
-         ━━━━━━━━  [★]    ReAZ     [★]  ━━━━━━━━
+       `✵•.¸,✵°✵.｡.🆆🅴 🆆🅾🆁🅺 🅵🅾🆁 🅳🅸🅶🅽🅸🆃🆈.｡.✵°✵,¸.•✵´   
+               ★★★★★ 🅝🅞🅣 🅕🅞🅡 🅜🅞🅝🅔🅨 ★★★★★
+         ♫♪♩·.¸¸.·♩♪♫    ReAZ    ♫♪♩·.¸¸.·♩♪♫
    ★ ━━━━━━━━━━━ [★] RaRe BlAcK [★] ━━━━━━━━━━━━ ★ " |lolcat
 
 python /data/data/com.termux/files/usr/etc/wlc.py
