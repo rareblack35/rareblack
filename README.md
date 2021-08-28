@@ -1,9 +1,9 @@
 ### Hi There 👋 
 ##            .................................................................♛ ɪ'ᴍ RaReBLaCk ♛.....................................................................
                                                                                             
-![Githubstats](https://github-readme-stats.vercel.app/api?username=Rareblack&count_private=true&show_icons=true&theme=radical)                                         
+![Githubstats](https://github-readme-stats.vercel.app/api?username=rareblack35&count_private=true&show_icons=true&theme=radical)                                         
 
-![Githubstats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rareblack&show_icons=true&theme=radical)
+![Githubstats](https://github-readme-stats.vercel.app/api/top-langs/?username=rareblack35&show_icons=true&theme=radical)
 
 </p>
   <p align="center">
